@@ -2,7 +2,7 @@
 
 *Mary Wanjiku*
 
-*Data Analyst | Power BI | SQL | DAX | Excel*
+*Data Analyst | Power BI, SQL, DAX | Business Intelligence for Finance & Fintech*
 
 Passionate about transforming data into actionable insights through business intelligence and analytics.
 
