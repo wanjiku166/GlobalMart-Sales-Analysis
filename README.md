@@ -41,4 +41,4 @@ This Power BI capstone project analyzes GlobalMart sales data to uncover valuabl
 
 ### 5. Executive Summary
 
-![Executive Summary](Page%205
+![Executive Summary](Page%205_Executive_Summary.png)
