@@ -1,3 +1,19 @@
+## 👩‍💻 Author
+
+*Mary Wanjiku*
+
+*Data Analyst | Power BI | SQL | DAX | Excel*
+
+Passionate about transforming data into actionable insights through business intelligence and analytics.
+
+## 🔗 Connect With Me
+
+*GitHub:* https://github.com/wanjiku166
+
+*LinkedIn:* https://www.linkedin.com/in/mary-wanjiku-06a253313
+
+*Email:* mary.n.wanjiku38@gmail.com
+
 # GlobalMart-Sales-Analysis
 Power BI capstone project analyzing GlobalMart sales data to uncover business insights through data cleaning, modeling, DAX measures, and interactive dashboards. Features sales, regional, product, and executive performance analysis with actionable recommendations for data-driven decision-making.
 # GlobalMart Sales Analysis
